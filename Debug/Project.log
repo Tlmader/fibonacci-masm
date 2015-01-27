@@ -1,0 +1,14 @@
+﻿Build started 1/27/2015 11:55:31 AM.
+     1>Project "C:\Users\Ted Mader\Dev\MASM\fibonacci\Project.vcxproj" on node 2 (Rebuild target(s)).
+     1>_MASM:
+         Assembling Debug\Fibonacci.asm...
+         cmd.exe /C "C:\Users\Ted Mader\AppData\Local\Temp\tmp54cb6de2885e433da94744dd72e7a3d9.cmd"
+         ml.exe /c /nologo /Sg /WX /Zi /Fo"Debug\Fibonacci.obj" /Fl"Project.lst" /I "c:\Irvine" /W3 /errorReport:prompt  /TaDebug\Fibonacci.asm
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Ted Mader\Dev\MASM\fibonacci\Debug\Project.exe" /NOLOGO /LIBPATH:c:\Irvine user32.lib irvine32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Ted Mader\Dev\MASM\fibonacci\Debug\Project.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE:NO /IMPLIB:"C:\Users\Ted Mader\Dev\MASM\fibonacci\Debug\Project.lib" /MACHINE:X86 /SAFESEH:NO Debug\Fibonacci.obj
+         Project.vcxproj -> C:\Users\Ted Mader\Dev\MASM\fibonacci\Debug\Project.exe
+     1>Done Building Project "C:\Users\Ted Mader\Dev\MASM\fibonacci\Project.vcxproj" (Rebuild target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.70
